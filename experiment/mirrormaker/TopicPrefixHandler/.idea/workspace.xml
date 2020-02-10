@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="98292055-2e54-4a84-86d3-06a5b9eea9e2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ProjectId" id="1XSEI9X4vJmX07KdrS62OIwPaut" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="98292055-2e54-4a84-86d3-06a5b9eea9e2" name="Default Changelist" comment="" />
+      <created>1581031013070</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581031013070</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1978" height="167" key="GridCell.Tab.0.bottom" timestamp="1581034002062">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1978" height="167" key="GridCell.Tab.0.bottom/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1581034002062" />
+    <state width="1978" height="167" key="GridCell.Tab.0.center" timestamp="1581034002062">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1978" height="167" key="GridCell.Tab.0.center/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1581034002062" />
+    <state width="1978" height="167" key="GridCell.Tab.0.left" timestamp="1581034002062">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1978" height="167" key="GridCell.Tab.0.left/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1581034002062" />
+    <state width="1978" height="167" key="GridCell.Tab.0.right" timestamp="1581034002062">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state width="1978" height="167" key="GridCell.Tab.0.right/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1581034002062" />
+    <state x="964" y="764" width="670" height="676" key="search.everywhere.popup" timestamp="1581032980015">
+      <screen x="0" y="23" width="2560" height="1417" />
+    </state>
+    <state x="964" y="764" width="670" height="676" key="search.everywhere.popup/0.23.2560.1417/2560.23.2560.1417@0.23.2560.1417" timestamp="1581032980015" />
+  </component>
+</project>

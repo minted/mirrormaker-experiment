@@ -1,0 +1,2 @@
+[2020-02-01 05:10:14,875] INFO [GroupMetadataManager brokerId=2] Removed 0 expired offsets in 70 milliseconds. (kafka.coordinator.group.GroupMetadataManager)
+[2020-02-01 05:10:22,895] WARN [Controller id=2, targetBrokerId=2] Connection to node 2 (/10.1.7.190:9092) could not be established. Broker may not be available. (org.apache.kafka.clients.NetworkClient)
